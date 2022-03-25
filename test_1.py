@@ -18,7 +18,6 @@ option 1
 return 100 * 10
 
 option 2
-return day= n * 2
-
+return day= n^2
 
 """""
